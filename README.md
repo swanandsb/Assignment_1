@@ -2,7 +2,7 @@
  
  #What is the webpage about?
 
- ![Vecata Logo](https://images.app.goo.gl/nhirqvcJBykym8J18)
+ ![Vecata Logo](https://images.app.goo.gl/dNcAfYbGpH1vKgCK7)
 
  This web page is about a corporation that provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. The name of the organisation is ##**_Vecta Corp_**
 
