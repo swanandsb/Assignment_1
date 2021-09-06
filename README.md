@@ -2,7 +2,7 @@
  
  # What is this webpage about?
 
- ![Vecta Logo](https://images.app.goo.gl/FBwJb63CftEwZGag8)
+ ![Vecta Logo](Users/swanand/Downloads/images.png)
 
  This web page is about a corporation that provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. The name of the organisation is **_Vecta Corp_**
 
