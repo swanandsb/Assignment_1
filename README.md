@@ -2,7 +2,7 @@
  
  # What is this webpage about?
 
- ![](https://www.vecteezy.com/vector-art/609350-v-letters-business-logo-and-symbols)
+ ![](https://as2.ftcdn.net/v2/jpg/01/66/33/03/500_F_166330389_JBeWxlmpCkwJbYxjeXwK9WwxG8kXnSMx.jpg)
 
  This web page is about a corporation that provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. The name of the organisation is **_Vecta Corp_**
 
