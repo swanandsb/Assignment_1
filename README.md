@@ -1,10 +1,10 @@
 # Assignment_1
  
- #What is the webpage about?
+ # What is this webpage about?
 
- ![Vecata Logo](https://images.app.goo.gl/dNcAfYbGpH1vKgCK7)
+ ![Vecta Logo](https://images.app.goo.gl/FBwJb63CftEwZGag8)
 
- This web page is about a corporation that provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. The name of the organisation is ##**_Vecta Corp_**
+ This web page is about a corporation that provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. The name of the organisation is **_Vecta Corp_**
 
  The **three pillars** in which this organisation beleives the most are:
 
@@ -23,11 +23,12 @@
                     Dorknozzle  
 
  >_"Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them."_ 
+                  
                   - Justin Case   
                     CTO   
                     IX Inc.   
 
- ####The team of Vecta corporation consists of:
+ #### The team of Vecta corporation consists of:
 
  1. Agnes, 
  Vice President, 
@@ -45,7 +46,7 @@
  5. Ferris, 
  Founder and CEO
 
- #####**_Contact Information_** :
+ #### **_Contact Information_** :
  
  **Address** : Vecta Corporation Vecta Corporation 
            555 Technology Place  
